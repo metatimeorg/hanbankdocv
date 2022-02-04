@@ -1,11 +1,9 @@
 # 智能合約
 
-Hen Bank智能合約代碼
+META TIME智能合約代碼
 
-{% embed url="https://github.com/nearcode/HenBank" %}
+名稱       TIME
 
-| 名稱      | 合約                                         |
-| ------- | ------------------------------------------ |
-| Hen 代幣  | 0x56706d2F09568Af5df065a004469b2cBD643Fee5 |
-| HenBank |                                            |
-| Vault   |                                            |
+代幣链种 BSC(BEP20)
+
+合约地址： 0x26619fa1d4c957c58096bbbeca6588dcfb12e109
