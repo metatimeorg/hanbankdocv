@@ -14,7 +14,7 @@ description: >-
 &#x20;
 {% endembed %}
 
-{% embed url="https://t.me/watermalony13" %}
+[https://t.me/watermalony13](https://t.me/watermalony13)
 
 ### Email
 
