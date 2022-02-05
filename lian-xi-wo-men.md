@@ -8,13 +8,7 @@ description: >-
 
 ### Telegram
 
-{% embed url="https://t.me/nearbtc" %}
-
-{% embed url="https://t.me/light202" %}
-&#x20;
-{% endembed %}
-
-[@watermalony13](https://t.me/watermalony13)
+[@nearbtc  ](https://t.me/nearbtc)  [@light202](https://t.me/light202)    [@watermalony13](https://t.me/watermalony13)
 
 ### Email
 
