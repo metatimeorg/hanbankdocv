@@ -14,7 +14,7 @@ description: >-
 &#x20;
 {% endembed %}
 
-[https://t.me/watermalony13](https://t.me/watermalony13)
+[@watermalony13](https://t.me/watermalony13)
 
 ### Email
 
