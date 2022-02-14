@@ -1,8 +1,10 @@
 # Table of contents
 
-* [介紹](README.md)
+* [简介](README.md)
 * [收益說明](shou-yi-shuo-ming.md)
-* [代幣](er-dai-bi-fang-an.md)
+* [通证](er-dai-bi-fang-an.md)
+* [通证权益](tong-zheng-quan-yi.md)
+* [代币发行分配比例](dai-bi-fa-hang-fen-pei-bi-li.md)
 
 ## 教程
 
